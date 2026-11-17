@@ -1,0 +1,6 @@
+{
+  "name": "Drug Interaction Checker",
+  "description": "Educational web application for searching fictional demo medicines, checking pairwise drug interaction records, and visualizing an interaction network graph.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
